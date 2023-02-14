@@ -22,7 +22,7 @@
            </a> <a href="https://nextjs.org/docs/getting-started" target="_blank" rel="noreferrer"> 
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
            </a> <a href="https://nextjs.org/docs/getting-started" target="_blank" rel="noreferrer"> 
-            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+            <img style="background-color:white;" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
            </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hongducanhnguyen&show_icons=true&locale=en&layout=compact" alt="hongducanhnguyen" /></p>
