@@ -25,7 +25,7 @@
             <img style="background-color:white;" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
            </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
             <img style="background-color:white;" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-           </a><a href="https://youtu.be/RvBwypGUkPo" target="_blank" rel="noreferrer"> 
+           </a><a href="https://youtu.be/xvFZjo5PgG0" target="_blank" rel="noreferrer"> 
             <img style="background-color:white;" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
            </a> </p>
 
