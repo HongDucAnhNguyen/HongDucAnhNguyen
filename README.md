@@ -32,5 +32,5 @@
            </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hongducanhnguyen&show_icons=true&locale=en&layout=compact" alt="hongducanhnguyen" /></p>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HongDucAnhNguyen&show_icons=true" alt="hongducanhnguyen" /></p>
 
