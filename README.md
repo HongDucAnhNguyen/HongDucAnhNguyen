@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hong Duc Anh/Jay Nguyen</h1>
 <h3 align="center">Full Stack Developer from Canada</h3>
 
-🔭Recent Projects I’ve worked on 
+🔭Recent Notable Projects I’ve worked on 
 - [Shower Thoughts 2.0](https://github.com/HongDucAnhNguyen/Shower-Thoughts-2.0)
 
 <h3 align="left">Connect with me:</h3>
