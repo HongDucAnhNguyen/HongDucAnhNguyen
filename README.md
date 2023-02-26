@@ -31,7 +31,6 @@
             <img style="background-color:white;" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
            </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hongducanhnguyen&show_icons=true&locale=en&layout=compact" alt="hongducanhnguyen" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HongDucAnhNguyen&show_icons=true" alt="hongducanhnguyen" /></p>
 <p><img align="center" src="https://readme-jokes.vercel.app/api" alt="hongducanhnguyen" /></p>
 
