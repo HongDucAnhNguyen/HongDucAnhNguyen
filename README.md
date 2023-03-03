@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hong Duc Anh/Jay Nguyen</h1>
 <h3 align="center">Full Stack Developer from Canada</h3>
 
+### 🤖 About Me
+- Exploring new technologies and developing software solutions 💻
+- Tinkering with Electronics ⚡
+- Self Studying Computer Science and Mathematics 💾
+- Exploring Cloud Architecture, System Design and AI 👾
+- Learning Graphic Design and Blog Writing ✍
+- Whittling some wood 🔪 
+
+
+
 🔭Recent Notable Projects I’ve worked on 
 - [Shower Thoughts 2.0](https://github.com/HongDucAnhNguyen/Shower-Thoughts-2.0)
 
