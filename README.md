@@ -14,7 +14,7 @@
 🔭Recent Notable Projects I’ve worked on 
 - [Shower Thoughts 2.0](https://github.com/HongDucAnhNguyen/Shower-Thoughts-2.0)
 
-<div align="left">Connect with me:</div>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sidequestjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidequestjay" height="30" width="30" /></a>
 
