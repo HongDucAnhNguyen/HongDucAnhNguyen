@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sidequestjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidequestjay" height="30" width="40" /></a>
+  <a href="https://medium.com/@bobguy0606" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="jay-blogs" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/jaynguyen0606/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jaynguyen0606" height="30" width="40" /></a>
 </p>
 
