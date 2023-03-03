@@ -31,6 +31,8 @@
             <img style="background-color:white;" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
            </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
             <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+           </a> <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+            <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
            </a>
   
   
