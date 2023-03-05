@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Developer from Canada</h3>
 
 ### 🤖 About Me
+- Open for Hire
 - Exploring new technologies and developing software solutions 💻
 - Tinkering with Electronics ⚡
 - Self Studying Computer Science and Mathematics 💾
