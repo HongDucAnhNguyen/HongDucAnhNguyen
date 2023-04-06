@@ -7,7 +7,7 @@
 - Tinkering with Electronics ⚡
 - Self Studying Computer Science and Mathematics 💾
 - Exploring Cloud Architecture, System Design and AI 👾
-- Learning Graphic Design and Blog Writing ✍
+- Learning Design and Blog Writing ✍
 - Whittling some wood 🔪 
 
 
