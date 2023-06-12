@@ -4,10 +4,6 @@
 ### 🤖 About Me
 - Open for Hire
 - Exploring new technologies and developing software solutions 💻
-- Tinkering with Electronics ⚡
-- Self Studying Computer Science and Mathematics 💾
-- Exploring Cloud Architecture, System Design and AI 👾
-- Learning Design and Blog Writing ✍
 - Whittling some wood 🔪 
 
 
