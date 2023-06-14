@@ -10,6 +10,7 @@
 
 🔭Recent Notable Projects I’ve worked on 
 - [Shower Thoughts 2.0](https://github.com/HongDucAnhNguyen/Shower-Thoughts-2.0)
+- [Ihsan Islamic Giftshop Ecommerce Store](https://github.com/HongDucAnhNguyen/Ihsan-ecommerce)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
