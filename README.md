@@ -2,6 +2,7 @@
 <h3 align="center"> Developer based in Canada</h3>
 
 ### 🤖 About Me
+
 - Open for Hire
 - Exploring new technologies and developing software solutions 💻
 - Whittling some wood 🔪 
