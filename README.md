@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hong Duc Anh/Jay Nguyen</h1>
-<h3 align="center"> Developer based in Canada</h3>
+<h1 align="left">Hi 👋, I'm Hong Duc Anh/Jay Nguyen</h1>
+<h3 align="left"> Developer based in Canada</h3>
 
 ### 🤖 About Me
 
