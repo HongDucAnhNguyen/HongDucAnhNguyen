@@ -11,7 +11,7 @@
 <a href="https://instagram.com/sidequestjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidequestjay" height="30" width="30" /></a><a href="https://www.linkedin.com/in/jaynguyen0606/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jaynguyen0606" height="30" width="40" /></a>
 </p>
 
- <a href="https://hongducanhng.onrender.com/" alt="Hong Duc Anh Nguyen">Portfolio Website</a>
+ <a href="https://thetechnorthman.com/" alt="Hong Duc Anh Nguyen">Portfolio Website</a>
 
 
   
