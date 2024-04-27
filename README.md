@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/jaynguyen0606/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="jaynguyen0606" height="30" width="40" /></a>
 </p>
 
- <a target="blank" href="https://thetechnorthman.com/" alt="Hong Duc Anh Nguyen">My Portfolio Website</a>
+ <a  href="https://thetechnorthman.com/" alt="Hong Duc Anh Nguyen" target="blank">My Portfolio Website</a>
 
 
   
