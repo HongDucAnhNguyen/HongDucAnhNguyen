@@ -5,6 +5,7 @@
 
 - Open for Hire
 - Exploring new technologies and developing software solutions 💻
+- Making Pancakes and French toast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
