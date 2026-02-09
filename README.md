@@ -2,10 +2,7 @@
 <h3 align="left"> Developer based in Canada</h3>
 
 ### 🤖 About Me
-
-- Open for Hire
-- Exploring new technologies and developing software solutions 💻
-- Making guacamole probably
+- making coffee probably
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
